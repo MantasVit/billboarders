@@ -4,7 +4,7 @@
 Defines the structure and behaviour of NPCs.
 
 # VehicleController
-Defines the structure and behaviour vehicles.
+Defines the structure and behaviour of vehicles.
 
 # PedestrianCrossing
 Represents a single curb at a crossing and manages traffic and crowd movement.
